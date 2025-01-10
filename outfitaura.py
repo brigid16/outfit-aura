@@ -2,7 +2,7 @@
 ## Brigid O'Hara
 ## 9 Jan 25
 
-# variables
+# i think unnecessary variables
 happy = ' blue, pink and yellow '
 calm = 'green, gray, and pink'
 sad = 'gray, blue, and red'
