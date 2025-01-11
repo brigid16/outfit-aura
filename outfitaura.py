@@ -1,6 +1,6 @@
 ## Outfit Aura
 ## Brigid O'Hara
-## 9 Jan 25
+## 25 Jan (9,10) 
 
 # Color variables
 happy = 'blue, pink and yellow'
